@@ -1,0 +1,9 @@
+[workspace]
+members = [
+  "mechatrek-matrix/",
+  "garage/*",
+]
+exclude = [
+  "garage/scraps/",
+]
+resolver = "3"
